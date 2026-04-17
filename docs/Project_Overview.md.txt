@@ -1,0 +1,10 @@
+# Project Overview
+
+This project demonstrates a risk-based cybersecurity assessment using formal governance and security frameworks.
+
+## Main Activities
+- Risk identification
+- Risk prioritization
+- Functional risk assessment
+- Interview-based control assessment
+- Audit findings development
