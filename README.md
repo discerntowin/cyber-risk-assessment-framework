@@ -34,5 +34,13 @@ This repository contains a sanitized portfolio version of an academic cybersecur
 - `templates/` reusable blank templates
 - `references/` sources and framework notes
 
-## Disclaimer
-This repository is a sanitized academic portfolio project. It does not disclose internal systems, configurations, identities, or sensitive operational details from any real security operations environment.
+## 📊 Sample Deliverables Preview
+
+### Risk Register
+![Risk Register Preview](docs/screenshots/risk-register-preview.png)
+
+### Functional Risk Assessment
+![Functional Assessment Preview](docs/screenshots/functional-assessment-preview.png)
+
+### Interview Guide
+![Interview Guide Preview](docs/screenshots/interview-guide-preview.png)
