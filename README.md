@@ -1,3 +1,8 @@
+## ⚠️ Disclaimer
+
+All materials in this repository have been sanitized and generalized for educational and portfolio purposes.  
+No real organizational data, systems, or sensitive information are disclosed.
+
 # cyber-risk-assessment-framework
 Portfolio project demonstrating cybersecurity risk assessment, framework mapping, and audit planning using NIST CSF and COBIT.
 
