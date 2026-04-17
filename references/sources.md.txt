@@ -1,0 +1,11 @@
+# Sources
+
+## Frameworks
+- NIST Cybersecurity Framework (CSF) 2.0
+- COBIT 2019 Framework: Governance and Management Objectives
+
+## Public reference material
+- Public-facing SOC wiki used only for high-level operational context
+
+## Notes
+This repository intentionally avoids publishing sensitive environment-specific details.
